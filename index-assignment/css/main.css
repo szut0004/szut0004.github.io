@@ -1,0 +1,45 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /*lucida sans*/
+    font-size: 18px;
+}
+
+
+
+/* changing font-family to lucida sans and font-size to 18px*/
+
+header,footer {
+    background-color:lavenderblush;
+}
+
+.site-title {
+    background-color: lightgoldenrodyellow;
+}
+
+#my-image {
+    box-shadow: 0px 0px 2px 1px black;
+}
+
+.hobbies {
+    list-style-type: square;
+}
+.hobbies :nth-child(odd) {
+    background-color: lavender;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: lightcyan;
+    border: 2px solid lightblue;
+}
+   
+nav li{
+    margin: 10px;
+}
+
+nav a:hover{
+    background-color: papayawhip;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color:lavenderblush;
+}
+
+ /* changing color of header bg */
+ header{
+    background-color: lemonchiffon;
+padding: 20px;
+margin: 20px;
+}
+
+p{
+    color: steelblue;
+}
+h1, h2, h3{
+    text-decoration: underline;
+}
+section p{
+    border: 2px dotted rebeccapurple;
+}
+
+.home{
+    text-decoration: none;
+}
